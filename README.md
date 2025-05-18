@@ -15,3 +15,6 @@ Example 3: bbbbb
 
 
 <img width="542" alt="Screen Shot 2025-05-17 at 12 06 23 PM" src="https://github.com/user-attachments/assets/7297f246-66a8-4b7a-bdfa-b22dc0ebb1ca" />
+
+Step-by-step procedure of example: pwwkew
+<img width="944" alt="Screen Shot 2025-05-17 at 11 43 36 AM" src="https://github.com/user-attachments/assets/14e60b7e-3f83-4eb4-bf19-f03ec5907135" />
